@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/gyoogle/Card/master/profile-summary-card-output/radical/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/gyoogle/Card/master/profile-summary-card-output/radical/4-productive-time.svg)
-```
-
-    

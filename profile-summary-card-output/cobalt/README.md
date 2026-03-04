@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/gyoogle/Card/master/profile-summary-card-output/cobalt/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/gyoogle/Card/master/profile-summary-card-output/cobalt/4-productive-time.svg)
-```
-
-    

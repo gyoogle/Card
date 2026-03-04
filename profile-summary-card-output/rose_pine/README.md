@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/gyoogle/Card/master/profile-summary-card-output/rose_pine/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/gyoogle/Card/master/profile-summary-card-output/rose_pine/4-productive-time.svg)
-```
-
-    
